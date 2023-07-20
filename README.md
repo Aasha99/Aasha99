@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Full Stack Development course
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email
+- 📫 aashaganji@gmail.com
 
 <!---
 Aasha99/Aasha99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
